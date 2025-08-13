@@ -13,4 +13,5 @@ int main(void)
 	putchar(c++); /* print letter a - z */
 
 	putchar('\n'); /* print newline */
-	return (0); 
+	return (0);
+} 
